@@ -12,10 +12,10 @@ Pragmatic, technical engineering leader with 17+ years of experience driving vel
 
 ## 🚀 Core Leadership & Operational Focus
 
-- **Worldwide Staffing & Capacity Strategy:** Designing data-driven resource allocation models, reducing time-to-staff, and optimizing technical utilization[cite: 1].
-- **Data-Driven Execution:** Operationalizing BI reporting, OKR tracking, and delivery metrics to remove operational friction and improve execution[cite: 1].
+- **Worldwide Staffing & Capacity Strategy:** Designing data-driven resource allocation models, reducing time-to-staff, and optimizing technical utilization.
+- **Data-Driven Execution:** Operationalizing BI reporting, OKR tracking, and delivery metrics to remove operational friction and improve execution.
 - **Code-Literate Governance:** Active participant in architectural reviews, technical pull requests, and incident response war rooms.
-- **AI & Cloud-Native Competency:** Driving capability growth across LLMOps, Cloud Native architectures, AWS, and Microservices[cite: 1].
+- **AI & Cloud-Native Competency:** Driving capability growth across LLMOps, Cloud Native architectures, AWS, and Microservices.
 
 ---
 
@@ -24,8 +24,8 @@ Pragmatic, technical engineering leader with 17+ years of experience driving vel
 I publish open-source frameworks for engineering managers, program leads, and operations teams:
 
 - 📖 [**Engineering Leadership Playbook**](./engineering-leadership-playbook) — Frameworks for Situational Leadership, Feedback Loops, and Team Development.
-- 🤝 [**High-Performing Teams Framework**](./engineering-leadership-playbook/03-building-high-performing-teams.md) — Building trust, healthy conflict, and accountability using Lencioni models[cite: 2].
-- 🔄 [**Change Management Playbook**](./engineering-leadership-playbook/05-change-management.md) — Navigating technical transformations while maintaining team morale and velocity[cite: 2].
+- 🤝 [**High-Performing Teams Framework**](./engineering-leadership-playbook/03-building-high-performing-teams.md) — Building trust, healthy conflict, and accountability using Lencioni models.
+- 🔄 [**Change Management Playbook**](./engineering-leadership-playbook/05-change-management.md) — Navigating technical transformations while maintaining team morale and velocity.
 
 ---
 
