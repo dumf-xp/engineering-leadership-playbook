@@ -35,10 +35,11 @@ Leadership behavior is defined by two dimensions:
                 │   (Low Support, Low Dir)      (Low Support, High Dir)
   LOW SUPPORT   └───────────────────────────────────────────────────►
                     LOW DIRECTIVE             HIGH DIRECTIVE
-```text
 
                                 DIRECTIVE BEHAVIOR
+```
 Style Breakdown & Key Keywords
+
 S1: Directive Style (For D1 - Enthusiastic Beginners)
 
 Keywords: Organize, Structure, Teach, Supervise, Evaluate
