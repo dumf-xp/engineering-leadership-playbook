@@ -60,12 +60,15 @@ Feedback is a gift designed to reinforce positive behavior or redirect unproduct
 
 When receiving feedback, human reactions typically follow a psychological "staircase". Lower steps represent defensive barriers, while higher steps represent growth.
 
-[ 5. CHANGE ]       ▲  Actionable growth & behavior shift
-[ 4. UNDERSTAND ]   │  Asking clarifying questions
-[ 3. EXPLAIN ]      │  Adding context without being defensive
---------------------┼-----------------------------------------
-[ 2. DEFEND / ARGUE]│  Pushing back or making excuses
-[ 1. DENIAL ]       │  Rejecting the feedback outright
+ ```
+                ▲
+  [5. CHANGE]   │ ── Actionable growth & behavior shift
+  [4. UNDERSTAND]│ ── Asking clarifying questions
+  [3. EXPLAIN]  │ ── Adding context without being defensive
+ ───────────────┼─────────────────────────────────────────
+  [2. DEFEND]   │ ── Pushing back or making excuses
+  [1. DENIAL]   │ ── Rejecting the feedback outright
+```
 
 
 ### Goal for Leaders
