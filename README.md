@@ -23,7 +23,7 @@ Pragmatic, technical engineering leader with 17+ years of experience driving vel
 
 I publish open-source frameworks for engineering managers, program leads, and operations teams:
 
-- 📖 [**Engineering Leadership Playbook**](./engineering-leadership-playbook) — Frameworks for Situational Leadership, Feedback Loops, and Team Development.
+- 📖 [**Engineering Leadership Playbook**](../engineering-leadership-playbook) — Frameworks for Situational Leadership, Feedback Loops, and Team Development.
 - 🤝 [**High-Performing Teams Framework**](./engineering-leadership-playbook/03-building-high-performing-teams.md) — Building trust, healthy conflict, and accountability using Lencioni models.
 - 🔄 [**Change Management Playbook**](./engineering-leadership-playbook/05-change-management.md) — Navigating technical transformations while maintaining team morale and velocity.
 
